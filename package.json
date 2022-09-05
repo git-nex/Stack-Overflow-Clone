@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akkySrivastava/stackoverflow-clone-mern.git"
+    "url": "git+https://github.com/git-nex/Stack-Overflow-Clone.git"
   },
-  "author": "Code with akky",
+  "author": "aayush",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akkySrivastava/stackoverflow-clone-mern/issues"
+    "url": "https://github.com/git-nex/Stack-Overflow-Clone"
   },
-  "homepage": "https://github.com/akkySrivastava/stackoverflow-clone-mern#readme",
+  "homepage": "https://github.com/git-nex/Stack-Overflow-Clone",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
@@ -27,7 +27,8 @@
     "express": "^4.17.1",
     "mongoose": "^6.0.2",
     "nodemon": "^2.0.12",
-    "react-scripts": "^5.0.1"
+    "react": "^18.2.0",
+    "react-scripts": "^2.1.3"
   },
   "keywords": [],
   "description": ""

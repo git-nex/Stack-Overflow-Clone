@@ -2,7 +2,7 @@
   "name": "stackoverflow-clone",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:8081",
+  "proxy": "http://127.0.0.1:8080",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -25,7 +25,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

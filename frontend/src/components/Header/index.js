@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/index.css";
 import SearchIcon from "@material-ui/icons/Search";
-import { Avatar } from "@material-ui/core";
+//import { Avatar } from "@material-ui/core";
 // import Avatar from "@mui/material/Avatar";
 import InboxIcon from "@material-ui/icons/Inbox";
 import HelpIcon from "@material-ui/icons/Help";
